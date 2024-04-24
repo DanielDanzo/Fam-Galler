@@ -1,5 +1,5 @@
 # Fam-Galler
-A Family website.
+A Family Gallery website website.
 
 # Brief
 A simlpe web app dedicated to having family upload pictures online to which they can view the pictures.
